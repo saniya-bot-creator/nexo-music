@@ -57,9 +57,9 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 GIT_TOKEN = getenv("GIT_TOKEN")  # needed if repo is private
 
 # ── Support links ──────────────────────────────────────────────────────────────
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/about_deadly_venom")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+2PkcrtzO-1A5MjY1")
-POLICY_URL = getenv("POLICY_URL", "https://nexo-music-privacy-policy.vercel.app")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+itozRCnuUnc0NTI1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+xFcrAVVo2upmY2Vl")
+POLICY_URL = getenv("POLICY_URL", "MUSIC POLICY KE LIYE OWNER PAPA SE CONTACT KARO")
 
 # ── Assistant auto-leave ───────────────────────────────────────────────────────
 AUTO_LEAVING_ASSISTANT = True
@@ -118,7 +118,7 @@ AYUV = [
     "📊 ᴜᴘᴛɪᴍᴇ: {2} • sᴛᴏʀᴀɢᴇ: {3}\n"
     "🖥 ᴄᴘᴜ: {4} • ʀᴀᴍ: {5}\n"
     "👥 ᴜsᴇʀs: {6} • 💬 ᴄʜᴀᴛs: {7}\n\n"
-    "💫 ᴅᴇᴠ: [𝐕 𝚬 𝚴 𝚶 𝚳 ⴕ](https://t.me/ll_deadly_venom_ll)"
+    "💫 ᴅᴇᴠ: [.𝁘ໍ❛ 𝁘° ⌯ ටි ⴕ ᧘ ꪶ ꫂ‹ ᥱ ᰻⃪᱂𝁑𝆆𝆅𓆪ꪾ⇢](https://t.me/II_THE_END_II)"
 ]
 
 # ── Runtime structures ─────────────────────────────────────────────────────────
